@@ -4,6 +4,8 @@
 	<version>0.1.0.0</version>
 	<candisable>yes</candisable>
 	<canuninstall>yes</canuninstall>
+	<license>GPL</license>
+	<licenselink>http://www.gnu.org/licenses/gpl-2.0.txt</licenselink>
 	<changelog>
 		*0.1.0.0* Original Release (beta)
 	</changelog>
